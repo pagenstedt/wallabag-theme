@@ -1,0 +1,51 @@
+.dark-theme .logo img {
+    width: 60% !important;
+    height: auto !important;
+    display: block;
+    margin: 10px auto 0px !important;
+}
+
+
+.dark-theme #article {
+    max-width: 60%; 
+    margin: 0 auto; 
+    padding: 0 20px; 
+    background-color: #171717 !important; 
+}
+
+.dark-theme .btn,
+.dark-theme .btn-floating,
+.dark-theme .chip-label, 
+.dark-theme .chip   { 
+    background-color: #868686 !important; 
+}             
+
+.dark-theme #content a {
+    color: #DFDFDF;
+} 
+
+.dark-theme #article article a {
+    border-bottom:1px dotted white !important;
+    text-decoration:none
+}
+
+.dark-theme .progress {
+    background-color: #DFDFDF; 
+}
+
+.dark-theme .determinate {
+    background-color: #868686 !important;
+
+}
+
+.dark-theme .card-title { 
+  color: white;
+}
+
+.dark-theme @media (min-width: 1200px) {
+    #article {
+        max-width: 50%; 
+    }
+}
+
+

@@ -1,4 +1,4 @@
-# wallabag-theme
+# Minimal wallabag theme for dark mode
 Minimal wallabag theme
 
 - grey buttons/tag background
